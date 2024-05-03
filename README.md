@@ -1,1 +1,2 @@
 # collegeRecommendSys
+The college recommendation app simplifies the daunting task of finding the right educational institution by offering personalized suggestions based on user input. Leveraging a user-friendly interface, the app prompts students to input their preferences, such as location, program offerings, and tuition fees. Using this information, the app employs a predefined database of colleges and algorithms to generate tailored recommendations, empowering students to make informed decisions about their higher education journey.
